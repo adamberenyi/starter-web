@@ -14,6 +14,10 @@ Sample website with plenty of files for demos. The main purpose is to provide ex
 
 This is a simple web project, deployment can be on any server or even local file system.
 
+## How to contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 Git.Training
